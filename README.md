@@ -45,7 +45,7 @@ $ ver quem votou
 $ ver todos os candidatos criados
 ![image](https://user-images.githubusercontent.com/96142611/197223547-2f321470-efe4-4ad8-a5e0-de54d7266b1b.png)
 
-$ 
+
 
 
 ### 🛠 Tecnologias
