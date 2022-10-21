@@ -1,9 +1,7 @@
 # Sistema de gestao de votos
 
 ## Nesse projeto foi feito o back-end de uma urna eletronica
-<h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/urna-img.png" />
-</h1>
+
 
 ### Pré-requisitos
 
@@ -25,12 +23,10 @@ $ npm install equire
 # Execute a aplicação
 $ npm run dev
 
-# O servidor inciará na porta:8888 - acesse <http://localhost:8888>
-$ com o servidor aberto, pesquise o candidato
-<h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/urna-img.png" />
-</h1>
-
+# O servidor inciará na porta:8888
+$ No insomnia crie os candidatos
+![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/96142611/197220359-93c627e9-f29e-4777-bc53-74f0b3547250.png)
+$ para buscar o candidato
 
 ```
 
