@@ -25,10 +25,12 @@ $ npm run dev
 
 # O servidor inciará na porta:8888
 $ No insomnia crie os candidatos
-![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/96142611/197220359-93c627e9-f29e-4777-bc53-74f0b3547250.png)
-$ para buscar o candidato
 
-```
+![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/96142611/197220359-93c627e9-f29e-4777-bc53-74f0b3547250.png)
+
+
+![image](https://user-images.githubusercontent.com/96142611/197221511-3031692a-d8dd-49af-aa83-9be8bb88e7f7.png)
+
 
 
 ### 🛠 Tecnologias
