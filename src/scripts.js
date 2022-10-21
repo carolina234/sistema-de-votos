@@ -35,7 +35,8 @@ app.post("/candidate", (request, response) => {
   return response.status(201).json(candidate);
 });
 
-
+/*
+criar cidadaos, nao estou usando no projeto mas espero usar no futuro!
 app.post('/cidadao', (request, response) => {
   const { name, username } = request.body;
 
@@ -55,15 +56,16 @@ app.post('/cidadao', (request, response) => {
   return response.status(201).json(cidadao);
 
 })
+*/
 
-
+// listar todos os candidatos criados e a quantidade de votos de cada um
 app.get("/listadecandidatos", (request, response) => {
 
   return response.status(200).json(candidates);
 });
 
 
-
+//buscar candidato pelo id
 app.get("/candidates/:candidateId", (request, response) => {
   const { candidateId } = request.params;
   const username = request.headers["x-bolovo-username"];
@@ -81,7 +83,7 @@ app.get("/candidates/:candidateId", (request, response) => {
   return response.status(200).json(ocandidatoexiste);
 });
 
-
+//votar no candidato
 app.post("/votes/:candidateId", (request, response) => {
   const { candidateId } = request.params;
   const username = request.headers["x-bolovo-username"];
@@ -111,7 +113,7 @@ app.post("/votes/:candidateId", (request, response) => {
   
 
 })
-
+// ver os votos
 app.get("/votos", (request, response ) => {
   return response.json(votes)
 })

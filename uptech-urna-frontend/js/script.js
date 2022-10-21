@@ -171,12 +171,12 @@ function clicouBotaoConfirma() {
         headers: {
           Accept: 'application.json',
           'Content-Type': 'application/json',
-          'x-bolovo-username': 'ARYEL DONATO',
+          'x-bolovo-username': 'Ana',
           
         },
         body: JSON.stringify({
-          candidateName: 'Gesonel',
-          partyName: '2020'
+          candidateName: 'finn',
+          partyName: 'terra de ooo'
         })
       })
       .then(response => response.json())
