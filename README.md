@@ -8,7 +8,7 @@
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [insomnia](https://insomnia.rest/download)
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
-
+![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/96142611/197220359-93c627e9-f29e-4777-bc53-74f0b3547250.png)
 ### 🎲 Rodando o Back End (servidor)
 
 ```bash
